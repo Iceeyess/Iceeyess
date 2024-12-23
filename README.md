@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Iceeyess
-- 👀 I’m interested in Python.
-- 🌱 I’m currently learning in Hexlet, Stepik, SkyEng. 
-- 💞️ I’m looking to collaborate on the projects and study Python to improve my skills. 
-- 📫 How to reach me ice_eyes@mail.ru
+- 👋 Hi, my name is Dmitry.
+- 👀 I’m interested in Python, Django, DRF, Docker, Fast API.
+- 🌱 I’m currently working in Lemana PRO as OeBS analyst. Above applications are my hobby for my soul.
+- 📫 How to reach me ice_eyes@mail.ru or ping me in https://t.me/Iceeyessss
 
 <!---
 Iceeyess/Iceeyess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
